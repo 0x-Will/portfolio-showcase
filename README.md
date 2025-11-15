@@ -5,7 +5,7 @@ A retro-inspired terminal-style portfolio website with authentic CRT monitor aes
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://willyb.lirio.cloud/)
 [![Built with Blazor](https://img.shields.io/badge/built%20with-Blazor-512BD4)](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 
-[**🚀 View Live Demo**](https://willyb.lirio.cloud/)
+[**🚀 View Live Site**](https://willyb.lirio.cloud/)
 
 ---
 
@@ -108,7 +108,7 @@ This portfolio combines nostalgia with modern web technologies to create a uniqu
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Site
 
 Experience the portfolio live at: [**https://willyb.lirio.cloud/**](https://willyb.lirio.cloud/)
 
@@ -203,6 +203,6 @@ Built with passion using modern web technologies. Special thanks to the Blazor a
 </p>
 
 <p align="center">
-  <a href="https://willyb.lirio.cloud/">View Live Demo</a> •
+  <a href="https://willyb.lirio.cloud/">View Live Site</a> •
   <a href="mailto:willyb@lirio.net">Get in Touch</a>
 </p>
